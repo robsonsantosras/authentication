@@ -1,0 +1,12 @@
+C:\Users\Robson\boasentregas\authentication\src\main\java\boasentregas\user\config\SecurityConfiguration.java
+C:\Users\Robson\boasentregas\authentication\src\main\java\boasentregas\user\controllers\AuthenticationController.java
+C:\Users\Robson\boasentregas\authentication\src\main\java\boasentregas\user\filter\TokenAuthenticationFilter.java
+C:\Users\Robson\boasentregas\authentication\src\main\java\boasentregas\user\config\RegisterConfig.java
+C:\Users\Robson\boasentregas\authentication\src\main\java\boasentregas\user\repositories\UserRepository.java
+C:\Users\Robson\boasentregas\authentication\src\main\java\boasentregas\user\models\JwtToken.java
+C:\Users\Robson\boasentregas\authentication\src\main\java\boasentregas\user\models\Login.java
+C:\Users\Robson\boasentregas\authentication\src\main\java\boasentregas\user\Application.java
+C:\Users\Robson\boasentregas\authentication\src\main\java\boasentregas\user\util\Base64.java
+C:\Users\Robson\boasentregas\authentication\src\main\java\boasentregas\user\services\implement\TokenService.java
+C:\Users\Robson\boasentregas\authentication\src\main\java\boasentregas\user\models\Profile.java
+C:\Users\Robson\boasentregas\authentication\src\main\java\boasentregas\user\services\implement\AuthenticationService.java
