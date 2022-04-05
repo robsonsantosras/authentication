@@ -30,6 +30,7 @@ public class TokenService {
 
         return Jwts.builder().setIssuer("IRS")
                 .setSubject(login.getId().toString())
+                .claim("clientid" , login.getClientid())
                 .setIssuedAt(new Date())
                 .setExpiration(exp)
                 .signWith(SignatureAlgorithm.HS512, secret)
